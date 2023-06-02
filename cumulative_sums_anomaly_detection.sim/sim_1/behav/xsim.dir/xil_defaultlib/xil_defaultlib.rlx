@@ -1,0 +1,11 @@
+0.6
+2016.4
+Jan 23 2017
+19:37:30
+C:/CTI/Licenta/cumulative_sums_anomaly_detection/cumulative_sums_anomaly_detection.sim/sim_1/behav/glbl.v,1485222234,verilog,,,,glbl,,,,,,,,
+C:/CTI/Licenta/cumulative_sums_anomaly_detection/cumulative_sums_anomaly_detection.srcs/sources_1/ip/fifo/sim/fifo.v,1681131995,verilog,,,,fifo,,,../../../cumulative_sums_anomaly_detection.ip_user_files/ipstatic/hdl,,,,,
+C:/CTI/Licenta/cumulative_sums_anomaly_detection/cumulative_sums_anomaly_detection.srcs/sources_1/new/int_adder_subtractor.vhd,1682981424,vhdl,,,,int_adder_subtractor,,,,,,,,
+C:/CTI/Licenta/cumulative_sums_anomaly_detection/cumulative_sums_anomaly_detection.srcs/sources_1/new/int_cumulative_sums_detector.vhd,1684074383,vhdl,,,,int_cumulative_sums_detector,,,,,,,,
+C:/CTI/Licenta/cumulative_sums_anomaly_detection/cumulative_sums_anomaly_detection.srcs/sources_1/new/int_max.vhd,1682981426,vhdl,,,,int_max,,,,,,,,
+C:/CTI/Licenta/cumulative_sums_anomaly_detection/cumulative_sums_anomaly_detection.srcs/sources_1/new/int_threshold_exceeding_detector.vhd,1682983872,vhdl,,,,int_threshold_exceeding_detector,,,,,,,,
+C:/CTI/Licenta/cumulative_sums_anomaly_detection/cumulative_sums_anomaly_detection.srcs/sources_1/new/tb_int_cumulative_sums_detector.vhd,1684077768,vhdl,,,,tb_int_cumulative_sums_detector,,,,,,,,

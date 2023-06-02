@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1684135864">
+  <File Type="PWROPT-DRC" Name="basys3_cusum_anomaly_detector_drc_pwropted.rpt"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="basys3_cusum_anomaly_detector_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="basys3_cusum_anomaly_detector_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR-RPX" Name="basys3_cusum_anomaly_detector_power_routed.rpx"/>
+  <File Type="PA-TCL" Name="basys3_cusum_anomaly_detector.tcl"/>
+  <File Type="OPT-HWDEF" Name="basys3_cusum_anomaly_detector.hwdef"/>
+  <File Type="RDI-RDI" Name="basys3_cusum_anomaly_detector.vdi"/>
+  <File Type="OPT-DCP" Name="basys3_cusum_anomaly_detector_opt.dcp"/>
+  <File Type="OPT-DRC" Name="basys3_cusum_anomaly_detector_drc_opted.rpt"/>
+  <File Type="OPT-TIMING" Name="basys3_cusum_anomaly_detector_timing_summary_opted.rpt"/>
+  <File Type="PWROPT-DCP" Name="basys3_cusum_anomaly_detector_pwropt.dcp"/>
+  <File Type="PWROPT-TIMING" Name="basys3_cusum_anomaly_detector_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="basys3_cusum_anomaly_detector_placed.dcp"/>
+  <File Type="PLACE-IO" Name="basys3_cusum_anomaly_detector_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="basys3_cusum_anomaly_detector_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="basys3_cusum_anomaly_detector_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="basys3_cusum_anomaly_detector_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="basys3_cusum_anomaly_detector_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="basys3_cusum_anomaly_detector_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="basys3_cusum_anomaly_detector_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-TIMING" Name="basys3_cusum_anomaly_detector_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="basys3_cusum_anomaly_detector_postplace_pwropt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="basys3_cusum_anomaly_detector_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="basys3_cusum_anomaly_detector_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="basys3_cusum_anomaly_detector_drc_physopted.rpt"/>
+  <File Type="PHYSOPT-TIMING" Name="basys3_cusum_anomaly_detector_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="basys3_cusum_anomaly_detector_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="basys3_cusum_anomaly_detector_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="basys3_cusum_anomaly_detector_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="basys3_cusum_anomaly_detector_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="basys3_cusum_anomaly_detector_drc_routed.pb"/>
+  <File Type="BG-BIN" Name="basys3_cusum_anomaly_detector.bin"/>
+  <File Type="ROUTE-DRC-RPX" Name="basys3_cusum_anomaly_detector_drc_routed.rpx"/>
+  <File Type="BG-DRC" Name="basys3_cusum_anomaly_detector.drc"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="basys3_cusum_anomaly_detector_methodology_drc_routed.rpt"/>
+  <File Type="BITSTR-MSK" Name="basys3_cusum_anomaly_detector.msk"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="basys3_cusum_anomaly_detector_methodology_drc_routed.rpx"/>
+  <File Type="BG-BGN" Name="basys3_cusum_anomaly_detector.bgn"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="basys3_cusum_anomaly_detector_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR" Name="basys3_cusum_anomaly_detector_power_routed.rpt"/>
+  <File Type="ROUTE-PWR-SUM" Name="basys3_cusum_anomaly_detector_power_summary_routed.pb"/>
+  <File Type="ROUTE-STATUS" Name="basys3_cusum_anomaly_detector_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="basys3_cusum_anomaly_detector_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="basys3_cusum_anomaly_detector_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="basys3_cusum_anomaly_detector_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="basys3_cusum_anomaly_detector_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="basys3_cusum_anomaly_detector_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="basys3_cusum_anomaly_detector_clock_utilization_routed.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="basys3_cusum_anomaly_detector_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="basys3_cusum_anomaly_detector_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="basys3_cusum_anomaly_detector_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="basys3_cusum_anomaly_detector_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="basys3_cusum_anomaly_detector_timing_summary_postroute_physopted.rpx"/>
+  <File Type="BG-BIT" Name="basys3_cusum_anomaly_detector.bit"/>
+  <File Type="BITSTR-RBT" Name="basys3_cusum_anomaly_detector.rbt"/>
+  <File Type="BITSTR-NKY" Name="basys3_cusum_anomaly_detector.nky"/>
+  <File Type="BITSTR-BMM" Name="basys3_cusum_anomaly_detector_bd.bmm"/>
+  <File Type="BITSTR-MMI" Name="basys3_cusum_anomaly_detector.mmi"/>
+  <File Type="BITSTR-SYSDEF" Name="basys3_cusum_anomaly_detector.sysdef"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/threshold_exceeding_detector.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/fp_max.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/fp_rom256x32.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/cumulative_sums_detector.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/mpg.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/display_7seg.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/basys3_cusum_anomaly_detector.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/int_threshold_exceeding_detector.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/int_max.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/int_adder_subtractor.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/rom256x32.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/int_cumulative_sums_detector.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/basys3_int_cusum_anomaly_detector.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/counter32.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/tb_int_cumulative_sums_detector.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/tb_cumulative_sums_detector.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/tb_rom256x32.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/tb_basic_int_cumulative_sums_detector.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/tb_basic_int_adder_subtractor.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/tb_basic_cumulative_sums_detector.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/tb_basic_fb_adder_subtractor.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/tb_int_threshold_exceeding_detector.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/tb_int_adder_subtractor.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/tb_int_max.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/tb_threshold_exceeding_detector.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="basys3_cusum_anomaly_detector"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/imports/Downloads/Basys3_test_env.xdc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../Users/ldrag/Downloads/Basys3_test_env.xdc"/>
+        <Attr Name="ImportTime" Val="1683630329"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TargetConstrsFile" Val="$PSRCDIR/constrs_1/imports/Downloads/Basys3_test_env.xdc"/>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2016"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+  <BlockFileSet Type="BlockSrcs" Name="fp_adder_subtracter"/>
+  <BlockFileSet Type="BlockSrcs" Name="fifo"/>
+  <BlockFileSet Type="BlockSrcs" Name="fp_greater_than"/>
+</GenRun>

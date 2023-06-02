@@ -1,0 +1,8 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  "../../../cumulative_sums_anomaly_detection.srcs/sources_1/ip/fifo/sim/fifo.v" --include "../../../cumulative_sums_anomaly_detection.ip_user_files/ipstatic/hdl"
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,1 @@
+fp_adder_subtracter.vhd,vhdl,xil_defaultlib,../../../../cumulative_sums_anomaly_detection.srcs/sources_1/ip/fp_adder_subtracter/sim/fp_adder_subtracter.vhd,

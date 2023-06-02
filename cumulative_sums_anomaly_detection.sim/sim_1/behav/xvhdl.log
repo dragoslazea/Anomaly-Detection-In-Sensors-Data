@@ -1,0 +1,10 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/CTI/Licenta/cumulative_sums_anomaly_detection/cumulative_sums_anomaly_detection.srcs/sources_1/new/int_threshold_exceeding_detector.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity int_threshold_exceeding_detector
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/CTI/Licenta/cumulative_sums_anomaly_detection/cumulative_sums_anomaly_detection.srcs/sources_1/new/int_max.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity int_max
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/CTI/Licenta/cumulative_sums_anomaly_detection/cumulative_sums_anomaly_detection.srcs/sources_1/new/int_adder_subtractor.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity int_adder_subtractor
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/CTI/Licenta/cumulative_sums_anomaly_detection/cumulative_sums_anomaly_detection.srcs/sources_1/new/int_cumulative_sums_detector.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity int_cumulative_sums_detector
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/CTI/Licenta/cumulative_sums_anomaly_detection/cumulative_sums_anomaly_detection.srcs/sources_1/new/tb_int_cumulative_sums_detector.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity tb_int_cumulative_sums_detector

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Mon May 15 10:31:08 2023
+# Process ID: 8800
+# Current directory: C:/CTI/Licenta/cumulative_sums_anomaly_detection/cumulative_sums_anomaly_detection.runs/synth_1
+# Command line: vivado.exe -log basys3_cusum_anomaly_detector.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source basys3_cusum_anomaly_detector.tcl
+# Log file: C:/CTI/Licenta/cumulative_sums_anomaly_detection/cumulative_sums_anomaly_detection.runs/synth_1/basys3_cusum_anomaly_detector.vds
+# Journal file: C:/CTI/Licenta/cumulative_sums_anomaly_detection/cumulative_sums_anomaly_detection.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source basys3_cusum_anomaly_detector.tcl -notrace
